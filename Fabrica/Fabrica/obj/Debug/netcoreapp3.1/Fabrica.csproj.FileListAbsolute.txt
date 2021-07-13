@@ -1,0 +1,13 @@
+C:\Users\icogh\source\repos\Fabrica\Fabrica\obj\Debug\netcoreapp3.1\Fabrica.csproj.AssemblyReference.cache
+C:\Users\icogh\source\repos\Fabrica\Fabrica\obj\Debug\netcoreapp3.1\Fabrica.AssemblyInfoInputs.cache
+C:\Users\icogh\source\repos\Fabrica\Fabrica\obj\Debug\netcoreapp3.1\Fabrica.AssemblyInfo.cs
+C:\Users\icogh\source\repos\Fabrica\Fabrica\obj\Debug\netcoreapp3.1\Fabrica.csproj.CoreCompileInputs.cache
+C:\Users\icogh\source\repos\Fabrica\Fabrica\bin\Debug\netcoreapp3.1\Fabrica.exe
+C:\Users\icogh\source\repos\Fabrica\Fabrica\bin\Debug\netcoreapp3.1\Fabrica.deps.json
+C:\Users\icogh\source\repos\Fabrica\Fabrica\bin\Debug\netcoreapp3.1\Fabrica.runtimeconfig.json
+C:\Users\icogh\source\repos\Fabrica\Fabrica\bin\Debug\netcoreapp3.1\Fabrica.runtimeconfig.dev.json
+C:\Users\icogh\source\repos\Fabrica\Fabrica\bin\Debug\netcoreapp3.1\Fabrica.dll
+C:\Users\icogh\source\repos\Fabrica\Fabrica\bin\Debug\netcoreapp3.1\Fabrica.pdb
+C:\Users\icogh\source\repos\Fabrica\Fabrica\obj\Debug\netcoreapp3.1\Fabrica.dll
+C:\Users\icogh\source\repos\Fabrica\Fabrica\obj\Debug\netcoreapp3.1\Fabrica.pdb
+C:\Users\icogh\source\repos\Fabrica\Fabrica\obj\Debug\netcoreapp3.1\Fabrica.genruntimeconfig.cache
